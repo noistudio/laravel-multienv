@@ -37,7 +37,7 @@ The package has been developed and tested to work with the following minimum req
 You can install the package via Composer:
 
 ```bash
-composer require allysonsilva/laravel-multienv
+composer require noistudio/laravel-multienv
 ```
 
 ### Publish the Config
